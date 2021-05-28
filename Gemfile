@@ -14,6 +14,7 @@ gem 'sass-rails', '>= 6'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'faker', require: false
+gem 'kaminari'
 
 
 group :development, :test do
